@@ -1,6 +1,4 @@
-## 👋 Hi there
-
-Telecom + Computer Science engineer, developed my passion for computers when I was 8: after school I would crash my dad’s office and jump onto the computer when he was in meetings. One day I found a monalisa.exe on the desktop, and clicked it. The result made me want to be able to do something like it. Recently I replicated that .exe and put it [here](https://rbatista191.github.io/) 🙈
+## 👋 Who am I
 
 Read more about me on [my website](https://ricardobatista.me/).
 
